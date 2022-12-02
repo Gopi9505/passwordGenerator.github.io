@@ -64,6 +64,9 @@ p{
 i{
     font-size: 20px;
 }
+#copy:hover{
+    zoom: 1.1;
+}
 
 
 
